@@ -80,6 +80,6 @@ I have also worked with <b>Unreal Engine</b> and <b>Unity</b>, and I used <b>Unr
 <br/>  
 
 ## Github Stats  
-<div align="center"><img src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Uchiha110&theme=merko" align="center" style="width: 100%" /></div>  
 
 <br/> 
