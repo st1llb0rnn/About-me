@@ -5,7 +5,7 @@ FullStack developer
 -------------------
 
 <div align="center">
-I've been doing programming for about four years now. In the first year, he focused on web development, and in the next two years he delved into backend development. During this time, I studied Python, SQL, Git, a little Django, and also worked with Selenium. The experience includes the deployment of projects to servers running Linux. I also tried to learn C languages, including C++ and C#, and worked with Kotlin in Android Studio to create a simple Android application.<br/><br/>
+I've been doing programming for about four years now. In the first year, he focused on web development, and in the next two years he delved into backend development. During this time, I studied <b>Python</b>, SQL, Git, a little Django, and also worked with Selenium. The experience includes the deployment of projects to servers running Linux. I also tried to learn C languages, including C++ and C#, and worked with Kotlin in Android Studio to create a simple Android application.<br/><br/>
   
 Recently, I have been striving to become a FullStack developer, so I am actively studying the frontend. I have mastered JavaScript, PHP, working with SASS and framework preprocessors Vue.js . I plan to study React in the near future, and also want to master Go and am interested in Godot Engine. <br/>
 
