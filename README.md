@@ -9,7 +9,7 @@ I've been doing programming for about four years now. In the first year, he focu
   
 Recently, I have been striving to become a FullStack developer, so I am actively studying the frontend. I have mastered JavaScript, PHP, working with SASS and framework preprocessors Vue.js . I plan to study React in the near future, and also want to master Go and am interested in Godot Engine. <br/>
 
-I have also worked with Unreal Engine and Unity, and I used Unreal Engine more, which I liked more. I am also currently studying the Godot Engine. I often work in IDE from JetBrains, such as PyCharm, WebStorm and IntelliJ, and also use VS Code.
+I have also worked with Unreal Engine and Unity, and I used Unreal Engine more, which I liked more. I am also currently studying the Godot Engine. I often work in IDE from JetBrains, such as PyCharm, WebStorm and IntelliJ, and also use VS Code. <br/>
 </div>
 
 *   🌍  I'm based in Crimea, Simferopol
