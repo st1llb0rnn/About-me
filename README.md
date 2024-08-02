@@ -82,7 +82,7 @@ I have also worked with <b>Unreal Engine</b> and <b>Unity</b>, and I used <b>Unr
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uchiha110&theme=merko" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Uchiha110&show_icons=true&theme=dark#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uchiha110&show_icons=true&theme=dark#gh-dark-mode-only" style="width: 100%" >
 </div>  
 
 <br/> 
