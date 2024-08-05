@@ -82,8 +82,8 @@ I have also worked with <b>Unreal Engine</b> and <b>Unity</b>, and I used <b>Unr
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uchiha110&show_icons=true&theme=gotham" style="width: 100%" ><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchiha110&layout=compact&theme=gotham" style="width: 100%" ><br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uchiha110&theme=gotham" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uchiha110&layout=compact&theme=gotham" style="width: 100%" >
 </div>  
 
 <br/> 
