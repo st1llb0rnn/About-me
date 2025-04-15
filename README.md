@@ -15,7 +15,7 @@ I have also worked with <b>Unreal Engine</b> and <b>Unity</b>, and I used <b>Unr
 *   🌍  I'm based in <b>Crimea, Simferopol</b>
 *   ✉️  You can contact me at <b>[ar.mor3.0001@gmail.com](mailto:ar.mor3.0001@gmail.com)</b>
 *   🧠  I'm learning Vue.js, React, Go, Godot Engine
-*   🤝  I'm open to collaborating on website layout, development of bots in telegram or discord, creation of parsers, creation of applications in Python, as well as creation of projects using Go
+*   🤝  I'm open to collaborating on website layout, development of bots in telegram or discord, creation of parsers, creation of applications in Python, as well as creation of projects using Go 
 
 <br/>  
 
